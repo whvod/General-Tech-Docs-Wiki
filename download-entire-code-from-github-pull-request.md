@@ -66,7 +66,6 @@ curl -L \
   -o pr.diff
 ```
 
-For a private repository, authenticate with GitHub CLI or provide an authorized token securely; do not place credentials directly in a command that may be saved in shell history.
 
 ## Which method should you choose?
 
